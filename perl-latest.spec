@@ -4,7 +4,7 @@
 #
 Name     : perl-latest
 Version  : 0.03
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/A/AN/ANDYA/latest-0.03.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/A/AN/ANDYA/latest-0.03.tar.gz
 Summary  : Use the latest Perl features
@@ -75,4 +75,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.1/latest.pm
+/usr/lib/perl5/vendor_perl/5.30.2/latest.pm
