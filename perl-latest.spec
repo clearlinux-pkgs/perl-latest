@@ -4,7 +4,7 @@
 #
 Name     : perl-latest
 Version  : 0.03
-Release  : 5
+Release  : 6
 URL      : https://cpan.metacpan.org/authors/id/A/AN/ANDYA/latest-0.03.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/A/AN/ANDYA/latest-0.03.tar.gz
 Summary  : Use the latest Perl features
